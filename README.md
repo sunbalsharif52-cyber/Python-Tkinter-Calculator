@@ -19,3 +19,7 @@ A clean and modern GUI-based calculator built using Python's standard `tkinter` 
 4. Run the following command:
    ```bash
    python calculator.py
+```
+
+https://github.com/user-attachments/assets/a8fc19a8-fcb5-480e-b7ca-eb8834ee8ad5
+
